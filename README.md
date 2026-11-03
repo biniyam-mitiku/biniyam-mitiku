@@ -81,6 +81,8 @@ An insurance analytics project combining exploratory analysis, statistical testi
 
 ## 🤝 Connect With Me
 
-* GitHub: [@Avicci-b](https://github.com/Avicci-b)
+* GitHub: [https://github.com/biniyam-mitiku]
+* Linkedin: [www.linkedin.com/in/biniyam-mitiku]
+
 
 I'm open to learning opportunities, collaborations, and internships in data analytics and data science.
